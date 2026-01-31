@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=jc278
-              -Dsonar.projectKey=jc278_ACS
+              -Dsonar.projectKey=jc278_SonarCloudCodeAnalyisis
               -Dsonar.python.coverage.reportPaths=coverage.xml
